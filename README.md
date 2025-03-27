@@ -1,6 +1,5 @@
 # BMI
-name , weight , height and age
-<?php
+name , weight , height and age<?php
 // Initialize result variable
 $result = "";
 
